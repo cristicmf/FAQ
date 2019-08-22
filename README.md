@@ -17,8 +17,9 @@
   - [单机部署指导手册](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/installation.html)
   - [FISCO-BCOS源码地址](https://github.com/FISCO-BCOS/FISCO-BCOS)
 
-#### 应用框架
-  开发者可以通过下载该脚手架，进行配置修改可以直接进行开发。
+#### 应用开发脚手架
+  开发者可以通过下载脚手架，进行配置修改可以直接进行开发。
+  
   该项目是基于`Web3SDK`的`spring boot`版本的示例项目。提供`FISCO BCOS`区块链应用开发的基本框架和基本的测试案例，帮助开发者基于 `FISCO BCOS`区块链快速进行应用开发。此版本只支持`FISCO BCOS 2.0`。
 
   - [项目文档和地址](https://github.com/FISCO-BCOS/spring-boot-starter)
