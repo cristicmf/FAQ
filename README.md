@@ -1,5 +1,4 @@
-# hackathon
-## 通关秘籍
+# FISCO-BCOS Resource
 
  ### 系统要求
 
