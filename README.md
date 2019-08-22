@@ -1,4 +1,4 @@
-# FISCO-BCOS Resource
+# FISCO-BCOS Resources
 
  ### 系统要求
 
